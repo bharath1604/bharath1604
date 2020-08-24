@@ -21,6 +21,24 @@ I am BHARATH, am a graduate in mechanical engineering from Madanapalli Institute
 
 </p>
 
+<p align="center" >
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=bharath1604&&show_icons=true&theme=radical"/>
+  </a>
+</p>
+
+<br />
+Languages and Tools...
+<p align ='center'>
+	<img src="https://raw.githubusercontent.com/mujahid2580/mujahid2580/master/svg/datascience.svg" alt="csharp" style="vertical-align:top; margin:4px">
+	<img src="https://raw.githubusercontent.com/mujahid2580/mujahid2580/master/svg/python.svg" alt="csharp" style="vertical-align:top; margin:4px">
+	<img src="https://raw.githubusercontent.com/mujahid2580/mujahid2580/master/svg/chrome.svg" alt="python" style="vertical-align:top; margin:4px">
+</p>
+
+---
+<b>Thankyou</b> - :pray:
+
+
 
 **bharath1604/bharath1604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
